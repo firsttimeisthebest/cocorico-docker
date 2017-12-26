@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-_VERSION="2017.11"
+_VERSION="201711"
 
 _usage(){
     echo -e "\e[33mUsage:\e[39m ./cocorico-docker [COMMAND]\n"
